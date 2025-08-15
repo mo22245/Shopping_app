@@ -5,18 +5,19 @@
 تطبيق تسوق متكامل مطور بـ Flutter يوفر تجربة مستخدم استثنائية مع دعم كامل للغة العربية.
 
 ## 📱 لقطات الشاشة
+<img width="1919" height="995" alt="Screenshot 2025-08-16 002558" src="https://github.com/user-attachments/assets/07b9e243-a49b-40c9-9cc9-dbda5d0acdef" />
 
-### شاشة الترحيب
-![Welcome Screen](screenshots/welcome_screen.png)
+<img width="1919" height="987" alt="Screenshot 2025-08-16 002612" src="https://github.com/user-attachments/assets/5c485ff3-453a-482f-96b2-1b2d7ce1ba6d" />
 
-### شاشة التسجيل  
-![Sign Up Screen](screenshots/signup_screen.png)
+<img width="1919" height="1020" alt="Screenshot 2025-08-16 002723" src="https://github.com/user-attachments/assets/5234ad6e-00c4-4612-883a-e998ada83bac" />
 
-### شاشة تسجيل الدخول
-![Sign In Screen](screenshots/signin_screen.png)
+<img width="1917" height="1021" alt="Screenshot 2025-08-16 002755" src="https://github.com/user-attachments/assets/de4f1b7b-a6fc-4a4f-8a5c-7f83748a7a8e" />
 
-### شاشة التسوق الرئيسية
-![Shopping Screen](screenshots/shopping_screen.png)
+<img width="1919" height="1017" alt="Screenshot 2025-08-16 002815" src="https://github.com/user-attachments/assets/4670a597-6242-4d02-8413-68c32f6e84a2" />
+
+<img width="1916" height="713" alt="Screenshot 2025-08-16 002829" src="https://github.com/user-attachments/assets/3c883e3b-f891-4d80-b56e-30d9abe1e015" />
+
+
 
 ## ✨ الميزات الرئيسية
 
